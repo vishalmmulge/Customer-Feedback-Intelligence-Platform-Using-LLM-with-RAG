@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Python
+.Python
+venv/
+venv*/.venv
+env/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Docker
+.dockerignore
+
+# Local data / indexes generated at runtime (managed by Docker volumes)
+backend/index/
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+data/uploads/
+*.npy
+*.bin
+*.csv.bak
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env.local
+.env.*.local
+
+# Jupyter
+.ipynb_checkpoints
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+*.egg

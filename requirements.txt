@@ -1,0 +1,23 @@
+# Customer Feedback Intelligence Platform - Python dependencies
+#
+# Install with:  pip install -r requirements.txt
+#
+# Note: faiss-cpu has no wheel for Python 3.15. If installation fails, the app
+# automatically falls back to an exact NumPy cosine-similarity search (same
+# API, no code change). See README.md "Vector search backend".
+
+fastapi>=0.100.0
+uvicorn>=0.20.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+httpx>=0.24.0
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.0.0
+faiss-cpu>=1.7.0
+streamlit>=1.20.0
+pytest>=7.0.0
+pytest-httpx>=0.20.0
+plotly>=5.0.0
