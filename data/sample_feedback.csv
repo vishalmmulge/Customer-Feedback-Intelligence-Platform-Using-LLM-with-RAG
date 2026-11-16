@@ -1,0 +1,76 @@
+customer_id,product,channel,rating,feedback_text,timestamp
+cust-001,Dashboard,email,5,"Love the new dashboard layout — it's so intuitive and fast.",2024-01-02T09:15:00Z
+cust-002,Reports,chat,2,"The report export is broken and keeps throwing an error.",2024-01-03T11:20:00Z
+cust-003,Dashboard,survey,4,"Great tool overall, but the pricing is a bit expensive for small teams.",2024-01-04T14:05:00Z
+cust-004,Mobile App,email,1,"App crashes every time I try to log in. Very frustrating.",2024-01-05T10:00:00Z
+cust-005,Dashboard,chat,5,"Support team was friendly and resolved my issue quickly.",2024-01-06T13:30:00Z
+cust-006,Reports,survey,3,"It works, but the UI is confusing and hard to navigate.",2024-01-07T16:45:00Z
+cust-007,Mobile App,email,4,"Fast and reliable. I'd recommend it to others.",2024-01-08T09:00:00Z
+cust-008,Dashboard,chat,1,"Waste of money. Nothing works as advertised.",2024-01-09T12:15:00Z
+cust-009,Reports,email,5,"Excellent reporting features. Exactly what we needed.",2024-01-10T10:30:00Z
+cust-010,Mobile App,survey,2,"Too slow on older devices. Please improve performance.",2024-01-11T15:00:00Z
+cust-011,Dashboard,email,4,"Smooth experience. The interface is clean and helpful.",2024-01-12T08:45:00Z
+cust-012,Reports,chat,3,"Okay, but I wish there were more export options.",2024-01-13T11:10:00Z
+cust-013,Mobile App,email,5,"Awesome app, best one I've used for task tracking.",2024-01-14T09:20:00Z
+cust-014,Dashboard,survey,1,"Terrible. The login page is broken and I can't get in.",2024-01-15T10:00:00Z
+cust-015,Reports,email,4,"Very useful. Support was responsive and helpful.",2024-01-16T13:00:00Z
+cust-016,Mobile App,chat,2,"Confusing layout. Took me forever to find settings.",2024-01-17T14:30:00Z
+cust-017,Dashboard,email,5,"Perfect for our workflow. Highly recommend.",2024-01-18T09:00:00Z
+cust-018,Reports,survey,3,"It's fine. Nothing amazing but it gets the job done.",2024-01-19T11:15:00Z
+cust-019,Mobile App,email,4,"Good performance and intuitive design. Thanks!",2024-01-20T10:45:00Z
+cust-020,Dashboard,chat,1,"Awful experience. Constant errors and no support reply.",2024-01-21T12:00:00Z
+cust-021,Reports,email,4,"Great value for the price. Easy to use.",2024-01-22T09:30:00Z
+cust-022,Mobile App,survey,2,"App keeps crashing on startup. Please fix this bug.",2024-01-23T10:15:00Z
+cust-023,Dashboard,email,5,"Amazing improvement over the previous version.",2024-01-24T11:00:00Z
+cust-024,Reports,chat,1,"The subscription fee is too high for what you get.",2024-01-25T13:45:00Z
+cust-025,Mobile App,email,4,"Fast loading times. Very satisfied with the app.",2024-01-26T09:00:00Z
+cust-026,Dashboard,survey,3,"Could be better. Some features are difficult to find.",2024-01-27T10:30:00Z
+cust-027,Reports,email,5,"Excellent. The support agent was friendly and quick.",2024-01-28T11:20:00Z
+cust-028,Mobile App,chat,2,"Slow and laggy. Not usable on my phone.",2024-01-29T12:00:00Z
+cust-029,Dashboard,email,5,"Best dashboard I've used. Intuitive and reliable.",2024-01-30T09:15:00Z
+cust-030,Reports,survey,1,"Doesn't work at all. Total waste of money.",2024-01-31T10:00:00Z
+cust-031,Mobile App,email,4,"Helpful features and smooth performance.",2024-02-01T11:00:00Z
+cust-032,Dashboard,chat,3,"It works but the interface feels outdated.",2024-02-02T13:00:00Z
+cust-033,Reports,email,5,"I love the new charting options. Great job!",2024-02-03T09:30:00Z
+cust-034,Mobile App,survey,2,"Error message keeps popping up. Fix please.",2024-02-04T10:15:00Z
+cust-035,Dashboard,email,4,"Solid product. Good value.",2024-02-05T11:30:00Z
+cust-036,Reports,chat,1,"Horrible customer service. No one responds.",2024-02-06T12:00:00Z
+cust-037,Mobile App,email,5,"Fast, clean, and easy to navigate.",2024-02-07T09:00:00Z
+cust-038,Dashboard,survey,3,"Average. Some bugs here and there.",2024-02-08T10:00:00Z
+cust-039,Reports,email,4,"Recommend it. The reports are detailed and accurate.",2024-02-09T11:00:00Z
+cust-040,Mobile App,chat,1,"App failed to install. Useless.",2024-02-10T12:30:00Z
+cust-041,Dashboard,email,5,"Impressed with the speed and design.",2024-02-11T09:45:00Z
+cust-042,Reports,survey,3,"It's okay. Price is a bit expensive though.",2024-02-12T10:00:00Z
+cust-043,Mobile App,email,4,"Friendly support and good performance.",2024-02-13T11:15:00Z
+cust-044,Dashboard,chat,2,"Hard to use. Very confusing menu structure.",2024-02-14T13:45:00Z
+cust-045,Reports,email,5,"Excellent product. Would buy again.",2024-02-15T09:00:00Z
+cust-046,Mobile App,survey,1,"Crashes constantly. Terrible quality.",2024-02-16T10:30:00Z
+cust-047,Dashboard,email,4,"Good improvement. Keep it up.",2024-02-17T11:00:00Z
+cust-048,Reports,chat,1,"Billing was charged twice. Complaint filed.",2024-02-18T12:00:00Z
+cust-049,Mobile App,email,5,"Awesome! Very fast and intuitive.",2024-02-19T09:15:00Z
+cust-050,Dashboard,survey,3,"Not bad. Needs a dark mode feature.",2024-02-20T10:00:00Z
+cust-051,Reports,email,4,"The support team replied quickly. Thank you.",2024-02-21T11:30:00Z
+cust-052,Mobile App,chat,2,"Laggy and slow. Disappointed.",2024-02-22T13:00:00Z
+cust-053,Dashboard,email,5,"Fantastic experience from start to finish.",2024-02-23T09:45:00Z
+cust-054,Reports,survey,1,"Broken export. Doesn't work. Refund please.",2024-02-24T10:00:00Z
+cust-055,Mobile App,email,4,"Great app overall. Minor bugs.",2024-02-25T11:00:00Z
+cust-056,Dashboard,chat,3,"Interface is okay but could be more intuitive.",2024-02-26T12:00:00Z
+cust-057,Reports,email,5,"Highly recommend. Great value.",2024-02-27T09:00:00Z
+cust-058,Mobile App,survey,2,"Too many errors. Frustrating to use.",2024-02-28T10:15:00Z
+cust-059,Dashboard,email,4,"Reliable and helpful. Good product.",2024-03-01T11:30:00Z
+cust-060,Reports,chat,1,"The worst software I've used. Angry customer.",2024-03-02T12:00:00Z
+cust-061,Mobile App,email,5,"Smooth and fast. Love it.",2024-03-03T09:00:00Z
+cust-062,Dashboard,survey,3,"Decent but expensive for the features.",2024-03-04T10:00:00Z
+cust-063,Reports,email,4,"Accurate reports and friendly service.",2024-03-05T11:15:00Z
+cust-064,Mobile App,chat,1,"Installation failed. Waste of time.",2024-03-06T12:30:00Z
+cust-065,Dashboard,email,5,"Intuitive design. Impressed.",2024-03-07T09:45:00Z
+cust-066,Reports,survey,3,"Could be faster. Some lag.",2024-03-08T10:00:00Z
+cust-067,Mobile App,email,4,"Good performance. Recommend.",2024-03-09T11:00:00Z
+cust-068,Dashboard,chat,2,"Confusing and hard to set up.",2024-03-10T13:00:00Z
+cust-069,Reports,email,5,"Excellent. No complaints.",2024-03-11T09:00:00Z
+cust-070,Mobile App,survey,1,"App crashes on open. Terrible.",2024-03-12T10:30:00Z
+cust-071,Dashboard,email,4,"Solid. Good value for money.",2024-03-13T11:30:00Z
+cust-072,Reports,chat,1,"No support response. Horrible service.",2024-03-14T12:00:00Z
+cust-073,Mobile App,email,5,"Fast, clean, easy. Five stars.",2024-03-15T09:00:00Z
+cust-074,Dashboard,survey,3,"Average experience.",2024-03-16T10:00:00Z
+cust-075,Reports,email,4,"Detailed reports. Satisfied.",2024-03-17T11:15:00Z

@@ -1,0 +1,24 @@
+# Manually labeled evaluation dataset for the Customer Feedback Intelligence Platform.
+#
+# Format: JSONL, one record per line.
+#
+# Each record:
+#   - question: natural-language question to ask the RAG system
+#   - expected_texts: list of substrings that a relevant retrieved record should contain
+#                     (case-insensitive substring match). Used to judge retrieval relevance.
+#   - category: human-labeled category for analysis
+#
+# These expectations are derived from data/sample_feedback.csv. They are
+# intentionally conservative: a retrieved record is counted as relevant only
+# if its feedback_text contains at least one of the expected substrings.
+
+{"question": "What are customers complaining about most?", "expected_texts": ["billing was charged twice", "worst software", "horrible customer service", "error message keeps popping up", "too many errors"], "category": "complaints"}
+{"question": "Why are customers dissatisfied?", "expected_texts": ["crashes", "broken", "slow", "laggy", "frustrating", "terrible", "awful"], "category": "dissatisfaction"}
+{"question": "What features do customers request?", "expected_texts": ["dark mode", "export", "feature", "would like", "missing", "suggestion"], "category": "feature_requests"}
+{"question": "What are the most common application bugs?", "expected_texts": ["crash", "error", "broken", "bug", "doesn't work", "not working", "failed"], "category": "bugs"}
+{"question": "Which topics have negative sentiment?", "expected_texts": ["expensive", "slow", "crash", "broken", "confusing", "horrible"], "category": "negative_topics"}
+{"question": "Summarize the most important customer concerns.", "expected_texts": ["billing", "crash", "slow", "support", "error", "price"], "category": "concerns"}
+{"question": "What issues are increasing over time?", "expected_texts": ["slow", "crash", "error", "laggy", "broken"], "category": "trends"}
+{"question": "Is the mobile app slow?", "expected_texts": ["slow", "laggy", "mobile app", "performance"], "category": "specific"}
+{"question": "Are customers happy with the dashboard?", "expected_texts": ["dashboard", "intuitive", "love", "great", "excellent"], "category": "specific"}
+{"question": "Do customers complain about pricing?", "expected_texts": ["expensive", "price", "billing", "overpriced", "waste of money"], "category": "pricing"}
